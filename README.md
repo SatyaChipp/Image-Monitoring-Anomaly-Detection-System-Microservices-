@@ -1,4 +1,4 @@
-# Image-Monitoring-Anomaly-Detection-System-Microservices-
+# Image-Monitoring-Anomaly-Detection-System-Microservices
 A Dockerized microservices-based image monitoring system that allows users to upload images into categorized folders and continuously compares them against CCTV inputs to detect visual anomalies in near real time.
 
 🔍 Overview
